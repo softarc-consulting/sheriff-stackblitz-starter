@@ -1,1 +1,3 @@
-export function formHelper() {}
+export function formHelper() {
+  return 'formHelper';
+}

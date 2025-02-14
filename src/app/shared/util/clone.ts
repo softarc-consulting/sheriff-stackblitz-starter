@@ -1,3 +1,3 @@
-function clone<T>(obj: T): T {
+export function clone<T>(obj: T): T {
   return structuredClone(obj);
 }
